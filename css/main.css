@@ -1,0 +1,26 @@
+/*
+* @Author: Milagros_Deshire
+* @Date:   2019-05-13 17:30:06
+* @Last Modified by:   Milagros_Deshire
+* @Last Modified time: 2019-05-17 10:38:54
+*/
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+	
+}
+
+header{
+	margin-top: 75px;
+}
+
+#testimonial{
+	background: #f1f1f1;
+	padding: 50px 0 30px 0;
+	text-align: center;
+	margin-top: 40px;
+}
+
+footer{
+	background: url(../img/image3.png);
+}
